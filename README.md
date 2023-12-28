@@ -48,6 +48,10 @@
 <div align="center">
 <a href="https://github.com/Dark2Moon" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</br>
+  <div align="center">
+<img src="https://komarev.com/ghpvc/?username=Dark2Moon&&style=flat-square" align="center" />
+</div>  
 </a>  
 </div>  
   
@@ -72,20 +76,14 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Dark2Moon&&style=flat-square" align="center" />
-</div>  
+
   
 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/dark2moon" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+<div align="center">
+            <a href="[https://www.coffeebede.com/rezaellaros](https://www.coffeebede.com/dark2moon)"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" height="50" /></a>
+
 <br />
 
-----
