@@ -83,7 +83,7 @@
 
 <div align="center">
 <div align="center">
-            <a href="[https://www.coffeebede.com/rezaellaros](https://www.coffeebede.com/dark2moon)"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" height="50" /></a>
+            <a href="https://www.coffeebede.com/dark2moon"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" height="70"/></a>
 
 <br />
 
